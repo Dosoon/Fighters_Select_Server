@@ -10,6 +10,8 @@
 
 [![Video Label](http://img.youtube.com/vi/7yijMzRkLTw/0.jpg)](https://youtu.be/7yijMzRkLTw)
 
+(썸네일 클릭 시 유튜브로 이동합니다.)
+
 ---
 
 # :computer: 구현 내용
@@ -29,3 +31,5 @@
 # :seedling: 기술 스택
 
 - C++
+- Windows Socket API
+- Visual Studio 2019
